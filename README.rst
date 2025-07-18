@@ -281,3 +281,4 @@ In addition, it uses the following Zephyr libraries:
 The sample also uses the following secure firmware component:
 
 * :ref:`Trusted Firmware-M <ug_tfm>`
+ 
